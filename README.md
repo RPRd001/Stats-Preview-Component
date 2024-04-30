@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Stats Preview Card Component](https://rprd001.github.io/Stats-Preview-Component/)
 
 ## My process
 
